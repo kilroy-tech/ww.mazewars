@@ -1,0 +1,6 @@
+{
+  "name": "MazeWars+",
+  "description": "Classic Macintosh first-person 2D maze shooter (Maze Wars+) with multiplayer swarm sync and AI eyeball bots.",
+  "swarm": "public",
+  "audience": "group"
+}
